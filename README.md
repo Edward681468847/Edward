@@ -10,9 +10,12 @@
 ---   
 ###### heading 6  
 ---
- **HELLO WORLD**  
- *I AM A STUDENT*  
+ **HELLO WORLD**
+ ---
+ *I AM A STUDENT*
+ ---
  ***Whatsup***
+ ---
  >this is a paragraph
 >> level two
 >>> hevel
