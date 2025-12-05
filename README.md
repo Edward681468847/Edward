@@ -16,13 +16,14 @@
 - first item
 >>- secon item
 we use the \<h1>\ tag to
-\\\Cmd
+```Cmd
 git clone <URLS
-\\\
 
-\\\ Javascrip  
-Console.log("Hello")  
-\\\
+
+```javascript
+console.log("Hello")
+
+This code was created by [yvcsdyla]. (http://example.com)
 
   
  
