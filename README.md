@@ -14,7 +14,7 @@
 - first item
 >>- secon item
 we use the \<h1>\ tag to
-\\\ Cmd
+\\\Cmd
 git clone <URLS
 \\\
 
