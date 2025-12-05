@@ -17,13 +17,13 @@
 >>- secon item
 we use the \<h1>\ tag to
 ```Cmd
-git clone <URLS
+git clone <URLS>
 
 
 ```javascript
 console.log("Hello")
 
-This code was created by [yvcsdyla]. (http://example.com)
+This code was created by [yvcsdyla](http://example.com)
 
   
  
